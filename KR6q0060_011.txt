@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:51.207604
+#+DATE: 2015-08-30 21:45:00.893336
 #+TITLE: 大慧普覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1998A
 #+PROPERTY: ID KR6q0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1998A
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0060_T_011-0856a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
-
- 大慧普覺禪師偈頌卷第十一¶
+大慧普覺禪師偈頌卷第十一¶
 ¶
 徑山能仁禪院住持嗣法¶
 慧日禪師臣蘊聞　上進¶
 
-皇帝在建邸請陞堂偈
-:PROPERTIES:
-:head: 皇帝在建邸請陞堂偈
-:END:
-¶
+皇帝在建邸請陞堂偈¶
 
 #+BEGIN_VERSE
 「　豁開頂門眼。
@@ -75,11 +70,7 @@
 #+END_VERSE
 」¶
 
-泉州惠安縣迎藏經請小參偈
-:PROPERTIES:
-:head: 泉州惠安縣迎藏經請小參偈
-:END:
-¶
+泉州惠安縣迎藏經請小參偈¶
 
 #+BEGIN_VERSE
 「　稽首十力大導師。
@@ -123,11 +114,7 @@
 #+END_VERSE
 」¶
 
-莊泉伯檢察為先安撫請陞堂偈
-:PROPERTIES:
-:head: 莊泉伯檢察為先安撫請陞堂偈
-:END:
-¶
+莊泉伯檢察為先安撫請陞堂偈¶
 
 #+BEGIN_VERSE
 「　近來學佛人。
@@ -158,11 +145,7 @@
 #+END_VERSE
 」¶
 
-方敷文請陞堂舉那吒太子因緣
-:PROPERTIES:
-:head: 方敷文請陞堂舉那吒太子因緣
-:END:
-¶
+方敷文請陞堂舉那吒太子因緣¶
 
 #+BEGIN_VERSE
 「　骨肉都還父母了。
@@ -172,11 +155,7 @@
 #+END_VERSE
 」¶
 
-趙提宮請陞堂偈
-:PROPERTIES:
-:head: 趙提宮請陞堂偈
-:END:
-¶
+趙提宮請陞堂偈¶
 
 #+BEGIN_VERSE
 「　言前薦得已天涯。
@@ -186,11 +165,7 @@
 #+END_VERSE
 」¶
 
-李參政轉物菴
-:PROPERTIES:
-:head: 李參政轉物菴(并引泰發)
-:END:
-¶
+李參政轉物菴(并引泰發)¶
 
 江月老人。牓所居之室曰轉物。蓋取首楞¶
 嚴若能轉物即同如來之義。書來索銘。妙¶
@@ -201,11 +176,7 @@
 自性復是何物。瞥起情塵捫空揣骨。此菴無¶
 作住者何人。具頂門眼試辨疎親。¶
 
-富樞密妙高堂
-:PROPERTIES:
-:head: 富樞密妙高堂(并引季申)
-:END:
-¶
+富樞密妙高堂(并引季申)¶
 
 樞密富公。閱華嚴大教。娛戲毘盧性海。隨¶
 所寓揭名曰妙高堂。蓋取法界勝樂妙高¶
@@ -224,11 +195,7 @@
 #+END_VERSE
 」¶
 
-魏侍郎淨心閣
-:PROPERTIES:
-:head: 魏侍郎淨心閣(邦達)
-:END:
-¶
+魏侍郎淨心閣(邦達)¶
 
 #+BEGIN_VERSE
 「　偉哉廣大寂滅心。
@@ -257,11 +224,7 @@
 #+END_VERSE
 」¶
 
-向侍郎無熱軒
-:PROPERTIES:
-:head: 向侍郎無熱軒(并引伯恭)
-:END:
-¶
+向侍郎無熱軒(并引伯恭)¶
 
 薌林居士。於所居園。臨池作無熱軒。將於¶
 北埭起連輝觀。取華嚴無熱大龍王宮流¶
@@ -304,11 +267,7 @@
 #+END_VERSE
 」¶
 
-蔡知縣小菴
-:PROPERTIES:
-:head: 蔡知縣小菴(并引)
-:END:
-¶
+蔡知縣小菴(并引)¶
 
 快活居士。結菴於南嶽之陽。以小名之。蓋
 <pb:KR6q0060_T_011-0857b>¶
@@ -327,11 +286,7 @@
 #+END_VERSE
 」¶
 
-汪狀元燕坐軒
-:PROPERTIES:
-:head: 汪狀元燕坐軒(聖錫)
-:END:
-¶
+汪狀元燕坐軒(聖錫)¶
 
 #+BEGIN_VERSE
 「　不於三界現身意。
@@ -341,11 +296,7 @@
 #+END_VERSE
 」¶
 
-韓司諫樂谷
-:PROPERTIES:
-:head: 韓司諫樂谷
-:END:
-¶
+韓司諫樂谷¶
 
 #+BEGIN_VERSE
 「　人言至樂在此谷。
@@ -355,11 +306,7 @@
 #+END_VERSE
 」¶
 
-六湛堂
-:PROPERTIES:
-:head: 六湛堂
-:END:
-¶
+六湛堂¶
 
 #+BEGIN_VERSE
 「　非湛非搖此法源。
@@ -373,11 +320,7 @@
 #+END_VERSE
 」¶
 
-同塵菴
-:PROPERTIES:
-:head: 同塵菴
-:END:
-¶
+同塵菴¶
 
 #+BEGIN_VERSE
 「　塵無自性攬真成立。
@@ -389,11 +332,7 @@
 #+END_VERSE
 」¶
 
-喻郎中觀我菴
-:PROPERTIES:
-:head: 喻郎中觀我菴(子才)
-:END:
-¶
+喻郎中觀我菴(子才)¶
 
 #+BEGIN_VERSE
 「　萬物備於我。
@@ -403,11 +342,7 @@
 #+END_VERSE
 」¶
 
-黃智通居士善住菴
-:PROPERTIES:
-:head: 黃智通居士善住菴
-:END:
-¶
+黃智通居士善住菴¶
 
 #+BEGIN_VERSE
 「　善住菴中人。
@@ -417,11 +352,7 @@
 #+END_VERSE
 」¶
 
-謝紫巖居士
-:PROPERTIES:
-:head: 謝紫巖居士(張侍郎)
-:END:
-¶
+謝紫巖居士(張侍郎)¶
 
 #+BEGIN_VERSE
 「　紫巖分惠建谿茗。
@@ -432,11 +363,7 @@
 #+END_VERSE
 」¶
 
-答劉安撫
-:PROPERTIES:
-:head: 答劉安撫(方明)
-:END:
-¶
+答劉安撫(方明)¶
 
 #+BEGIN_VERSE
 「　毛錐子上通消息。
@@ -446,11 +373,7 @@
 #+END_VERSE
 」¶
 
-寄無垢居士
-:PROPERTIES:
-:head: 寄無垢居士(張侍郎)
-:END:
-¶
+寄無垢居士(張侍郎)¶
 
 #+BEGIN_VERSE
 「　上苑玉池方解凍。
@@ -460,11 +383,7 @@
 #+END_VERSE
 」¶
 
-示汪居士
-:PROPERTIES:
-:head: 示汪居士(南叟)
-:END:
-¶
+示汪居士(南叟)¶
 
 #+BEGIN_VERSE
 「　一毛頭上無邊剎。
@@ -474,11 +393,7 @@
 #+END_VERSE
 」¶
 
-示周子充寫華嚴經
-:PROPERTIES:
-:head: 示周子充寫華嚴經
-:END:
-¶
+示周子充寫華嚴經¶
 
 #+BEGIN_VERSE
 「　總別同異成壞行布。
@@ -490,11 +405,7 @@
 #+END_VERSE
 」¶
 
-示了然居士
-:PROPERTIES:
-:head: 示了然居士(舉之)
-:END:
-¶
+示了然居士(舉之)¶
 
 #+BEGIN_VERSE
 「　長樂沙坑鄭了然。
@@ -504,11 +415,7 @@
 #+END_VERSE
 」¶
 
-示韓令人
-:PROPERTIES:
-:head: 示韓令人(子蒼宅)
-:END:
-¶
+示韓令人(子蒼宅)¶
 
 #+BEGIN_VERSE
 「　說不到處著一句。
@@ -518,11 +425,7 @@
 #+END_VERSE
 」¶
 
-示大悲長老
-:PROPERTIES:
-:head: 示大悲長老
-:END:
-¶
+示大悲長老¶
 
 #+BEGIN_VERSE
 「　一棒打破生死窟。
@@ -532,11 +435,7 @@
 #+END_VERSE
 」¶
 
-示祥雲懿長老
-:PROPERTIES:
-:head: 示祥雲懿長老
-:END:
-¶
+示祥雲懿長老¶
 
 #+BEGIN_VERSE
 「　奪却衲僧拄杖。
@@ -546,11 +445,7 @@
 #+END_VERSE
 」¶
 
-示鼎需禪人
-:PROPERTIES:
-:head: 示鼎需禪人
-:END:
-¶
+示鼎需禪人¶
 
 #+BEGIN_VERSE
 「　面門豎亞摩醯眼。
@@ -561,11 +456,7 @@
 」
 <pb:KR6q0060_T_011-0858a>¶
 
-示彌光禪人
-:PROPERTIES:
-:head: 示彌光禪人
-:END:
-¶
+示彌光禪人¶
 
 #+BEGIN_VERSE
 「　龜毛拈得笑咍咍。
@@ -575,11 +466,7 @@
 #+END_VERSE
 」¶
 
-示祖元禪人
-:PROPERTIES:
-:head: 示祖元禪人
-:END:
-¶
+示祖元禪人¶
 
 #+BEGIN_VERSE
 「　萬仞崖頭解放身。
@@ -589,11 +476,7 @@
 #+END_VERSE
 」¶
 
-示遵璞禪人
-:PROPERTIES:
-:head: 示遵璞禪人
-:END:
-¶
+示遵璞禪人¶
 
 #+BEGIN_VERSE
 「　一口吞盡三世佛。
@@ -603,11 +486,7 @@
 #+END_VERSE
 」¶
 
-示法泉侍者
-:PROPERTIES:
-:head: 示法泉侍者
-:END:
-¶
+示法泉侍者¶
 
 #+BEGIN_VERSE
 「　言前超佛祖。
@@ -623,14 +502,10 @@
 #+END_VERSE
 」¶
 
-示用禪人
-:PROPERTIES:
-:head: 示用禪人
-:END:
-¶
+示用禪人¶
 
 #+BEGIN_VERSE
-「　未點先行不唧𠺕。
+「　未點先行不唧[口*留]。
 　不撥自轉已出醜。
 　那堪更¶鼓兩片皮。
 　豈止鑿空開戶牖。
@@ -641,11 +516,7 @@
 #+END_VERSE
 」¶
 
-送直禪人
-:PROPERTIES:
-:head: 送直禪人
-:END:
-¶
+送直禪人¶
 
 #+BEGIN_VERSE
 「　直出直入直行直坐。
@@ -660,11 +531,7 @@
 #+END_VERSE
 」¶
 
-送法輪思藏主化鍾
-:PROPERTIES:
-:head: 送法輪思藏主化鍾
-:END:
-¶
+送法輪思藏主化鍾¶
 
 #+BEGIN_VERSE
 「　覆為鍾仰為鼎。
@@ -677,10 +544,6 @@
 」¶
 
 送超僧鑑
-:PROPERTIES:
-:head: 送超僧鑑
-:END:
-
 <pb:KR6q0060_T_011-0858b>¶
 
 #+BEGIN_VERSE
@@ -691,11 +554,7 @@
 #+END_VERSE
 」¶
 
-寄福勝長老
-:PROPERTIES:
-:head: 寄福勝長老
-:END:
-¶
+寄福勝長老¶
 
 #+BEGIN_VERSE
 「　真人十八界元空。
@@ -705,11 +564,7 @@
 #+END_VERSE
 」¶
 
-寄歸宗華姪禪師
-:PROPERTIES:
-:head: 寄歸宗華姪禪師
-:END:
-¶
+寄歸宗華姪禪師¶
 
 #+BEGIN_VERSE
 「　坐斷金輪第一峯。
@@ -719,11 +574,7 @@
 #+END_VERSE
 」¶
 
-送了明長老歸長蘆
-:PROPERTIES:
-:head: 送了明長老歸長蘆
-:END:
-¶
+送了明長老歸長蘆¶
 
 #+BEGIN_VERSE
 「　人言棒頭出孝子。
