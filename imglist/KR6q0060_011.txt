@@ -1,0 +1,7 @@
+011-0856b00	T 011-0856b	buddhist/T-taisho/T47/08/T47-0856.png
+011-0856c00	T 011-0856c	buddhist/T-taisho/T47/08/T47-0856.png
+011-0857a00	T 011-0857a	buddhist/T-taisho/T47/08/T47-0857.png
+011-0857b00	T 011-0857b	buddhist/T-taisho/T47/08/T47-0857.png
+011-0857c00	T 011-0857c	buddhist/T-taisho/T47/08/T47-0857.png
+011-0858a00	T 011-0858a	buddhist/T-taisho/T47/08/T47-0858.png
+011-0858b00	T 011-0858b	buddhist/T-taisho/T47/08/T47-0858.png
