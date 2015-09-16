@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:51.364986
+#+DATE: 2015-08-30 21:44:54.031708
 #+TITLE: 大慧普覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1998A
 #+PROPERTY: ID KR6q0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1998A
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIAXING
 #+PROPERTY: LASTPB <pb:KR6q0060_T_016-0878a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 大慧普覺禪師普說卷第十六¶
+大慧普覺禪師普說卷第十六¶
 ¶
 徑山能仁禪院住持嗣法¶
 慧日禪師臣蘊聞　上進¶
@@ -329,7 +328,7 @@
 <pb:KR6q0060_T_016-0881c>¶
 向爾道。此是第一等惡口。若記著一箇元字¶
 脚。便是生死根本也。爾諸人諸方學得底玄¶
-中又玄。妙中又妙。是甚麼屎禪。一向𡎺在皮¶
+中又玄。妙中又妙。是甚麼屎禪。一向[祝/土]在皮¶
 袋裏。將謂實有恁麼事。莫錯。諸上座。爾真箇¶
 要參妙喜禪。盡將諸方學得底。掃向他方世¶
 界。百不知百不會。虛却心來。共爾理會復說¶
