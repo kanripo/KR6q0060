@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:51.143948
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:59
 #+TITLE: 大慧普覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1998A
 #+PROPERTY: ID KR6q0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1998A
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0060_T_009-0845c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
-
- 大慧普覺禪師雲居首座寮秉拂¶
+大慧普覺禪師雲居首座寮秉拂¶
 語錄卷第九¶
 ¶
 徑山能仁禪院住持嗣法¶
@@ -87,7 +86,7 @@
 干戈穿却鼻孔。後來舜老夫拈云。本仁既已¶
 入草。這僧又落深村。然則陽春雪曲。時人難¶
 和。村歌社舞。到處與人合得著。師云。舜老¶
-夫是則也是。未免隨摟摗。秉拂上座。不惜眉¶
+夫是則也是。未免隨樓摗。秉拂上座。不惜眉¶
 毛。為諸人說破。聲不是聲。色不是色。馬後¶
 驢前神出鬼沒。雪曲陽春和不齊。村歌社舞¶
 且淈𣸩。以拂子擊禪床云。這箇決定不是聲。¶
@@ -371,11 +370,7 @@
 雲居首座寮秉拂終¶
 ¶
 
-室中機緣
-:PROPERTIES:
-:head: 室中機緣
-:END:
-¶
+* 室中機緣¶
 
 師問僧。巖頭纔跨德山門便問。是凡是聖。德¶
 山便喝。巖頭禮拜。意作麼生。僧云。好箇消¶

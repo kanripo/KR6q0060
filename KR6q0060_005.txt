@@ -1,22 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:51.034857
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:59
 #+TITLE: 大慧普覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1998A
 #+PROPERTY: ID KR6q0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1998A
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6q0060_T_005-0829b> ¶¶¶
+#+PROPERTY: WITNESS master
+#+PROPERTY: LASTPB <pb:KR6q0060_T_005-0829b> ¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 大慧普覺禪師住育王廣利禪寺¶
+大慧普覺禪師住育王廣利禪寺¶
 語錄卷第五¶
 ¶
-徑山能仁禪院住持嗣法¶
-慧日禪師臣蘊聞　上進¶
+徑山能仁禪院住持嗣法慧日禪師臣蘊聞　上進¶
 
 師紹興二十六年。十一月二十三日。於明州¶
 報恩光孝禪寺開堂。宣疏拈香祝聖罷。乃就¶

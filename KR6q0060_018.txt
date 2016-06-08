@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:51.409654
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:59
 #+TITLE: 大慧普覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1998A
 #+PROPERTY: ID KR6q0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1998A
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0060_T_018-0886b> ¶¶
 #+PROPERTY: JUAN 18
 ¶
 ¶
-
- 大慧普覺禪師普說卷第十八¶
+大慧普覺禪師普說卷第十八¶
 ¶
 徑山能仁禪院住持嗣法¶
 慧日禪師臣蘊聞　上進¶
@@ -148,9 +147,9 @@
 「　惡念既不生。
 　善¶念常相續。
 　諸波羅蜜門。
-　一切自具足。
+　一切自具足。」
 #+END_VERSE
-」¶
+¶
 
 孫通判請普說。師云。說法不應時。總是非時¶
 語。所以道。未離兜率已降王宮。未出母胎度¶
@@ -299,7 +298,7 @@
 眼色耳聲鼻嗅香身觸意思無差別。適來所¶
 謂是法住法位世間相常住是也。當以此觀¶
 如是觀。取此為實成妄想。到這裏又轉了曰。¶
-若離妄想取實法。展轉惑亂失本心。本心既¶
+若離忘想取實法。展轉惑亂失本心。本心既¶
 失隨顛倒。不見大士妙色身。云何顛倒。眼¶
 見色隨色轉。耳聞聲隨聲轉。是謂眾生顛倒¶
 迷己逐物。以逐物故不見大士妙色身。無眼¶

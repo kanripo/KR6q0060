@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:51.364986
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:59
 #+TITLE: 大慧普覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1998A
 #+PROPERTY: ID KR6q0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1998A
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0060_T_016-0878a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 大慧普覺禪師普說卷第十六¶
+大慧普覺禪師普說卷第十六¶
 ¶
 徑山能仁禪院住持嗣法¶
 慧日禪師臣蘊聞　上進¶
@@ -172,9 +171,9 @@
 「　佛之一字尚不喜
 　有何生死可相關¶
 　當機覿面難回互
-　說甚楞嚴義八還
+　說甚楞嚴義八還」
 #+END_VERSE
-」
+
 <pb:KR6q0060_T_016-0880a>¶
 
 悅禪人請普說。僧問。臨濟示眾云。有時奪人¶

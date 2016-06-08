@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:51.091452
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:59
 #+TITLE: 大慧普覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1998A
 #+PROPERTY: ID KR6q0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1998A
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0060_T_007-0837b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 大慧普覺禪師住江西雲門菴語¶
+大慧普覺禪師住江西雲門菴語¶
 錄卷第七¶
 ¶
 徑山能仁禪院住持嗣法¶
@@ -163,7 +162,7 @@
 商量。作麼生識。作麼生測。良久云。無人過¶
 價打與三百擊禪床一下。¶
 
-示眾。入水不避蛟龍。漁父之勇也。陸行不避¶
+示眾。入水不避蚊龍。漁父之勇也。陸行不避¶
 虎兕。獵夫之勇也。白刃臨前視死若生者。將¶
 軍之勇也。作麼生是衲僧之勇。良久云。大膽¶
 駕頭衝突過。小膽哀鳴告所由。喝一喝。¶

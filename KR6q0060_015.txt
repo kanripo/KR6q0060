@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:51.334082
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:59
 #+TITLE: 大慧普覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1998A
 #+PROPERTY: ID KR6q0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1998A
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0060_T_015-0872c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 大慧普覺禪師普說卷第十五¶
+大慧普覺禪師普說卷第十五¶
 ¶
 徑山能仁禪院住持嗣法¶
 慧日禪師臣蘊聞　上進¶
@@ -467,7 +466,7 @@
 未動毛錐未形紙墨時。已與毘盧遮那如來¶
 及不可說微塵數剎土諸佛菩薩廣大境界。¶
 一一平等一一無差別。以至周旋八十一卷。¶
-行布圓融。亦與善財未見文殊未發阿耨多¶
+行布圓融。亦與善財未見文殊未發阿縟多¶
 羅三藐三菩提心。及發心已來遍歷諸城。承¶
 事諸善知識。次第滿足普賢諸行願海。亦無¶
 差別。如上所說。豈不是此法。杼山居士既爾。¶

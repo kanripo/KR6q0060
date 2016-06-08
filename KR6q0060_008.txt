@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:51.117504
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:59
 #+TITLE: 大慧普覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1998A
 #+PROPERTY: ID KR6q0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1998A
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0060_T_008-0841b> ¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 大慧普覺禪師住福州洋嶼菴語¶
+大慧普覺禪師住福州洋嶼菴語¶
 錄卷第八¶
 ¶
 徑山能仁禪院住持嗣法¶
